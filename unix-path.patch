@@ -1,0 +1,11 @@
+--- a/src/CNFGRAPI.h	2014-03-25 13:47:52.000000000 -0600
++++ b/src/CNFGRAPI.h	2014-03-25 21:38:01.796531793 -0600
+@@ -30,7 +30,7 @@
+ #define HaveSysctlPath 0
+ 
+ 
+-#define RomFileName "vMac.ROM"
++#define RomFileName "/usr/share/vMac-ROMs/vMac.ROM"
+ #define EnableDragDrop 1
+ #define EnableAltKeysMode 0
+ #define SwapCommandControl 0
